@@ -33,8 +33,9 @@ ver más para poner colores
 ```
 imagen en local: ![website](/assets/imagenes/lab11.jpg) # sigo la  ruta de la imgen. mirar como ver el tamaño de la imagen
 Imagen en remoto: 1 ![alt text](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_481,h_360/https://peritoinformaticoenmurcia.es/wp-content/uploads/2019/07/Especialidad_1-540x360.jpg)
-Imagen en remoto: 2 ![alt text](https://mega.nz/file/qSQTgQJA#MKpEnlti4j3YTDV9DPKH8nOzc9IOcCIZ4qFMajC1cOE?raw=true "Title")
-Imagen en remoto: 3 ![Alt text](https://mega.nz/file/qSQTgQJA#MKpEnlti4j3YTDV9DPKH8nOzc9IOcCIZ4qFMajC1cOE?raw=true "Title")
-Imagen en remoto: 4 ![Screenshot](https://mega.nz/file/qSQTgQJA#MKpEnlti4j3YTDV9DPKH8nOzc9IOcCIZ4qFMajC1cOE?raw=true "Title")
-Imagen en remoto: 5 ![website](https://mega.nz/file/qSQTgQJA#MKpEnlti4j3YTDV9DPKH8nOzc9IOcCIZ4qFMajC1cOE?raw=true "Title")
-Imagen en remoto: 6 ![website](https://mega.nz/file/qSQTgQJA#MKpEnlti4j3YTDV9DPKH8nOzc9IOcCIZ4qFMajC1cOE)
+Imagen en remoto: 2 ![alt text](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing?raw=true "Title")
+Imagen en remoto: 3 ![Alt text](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing?raw=true "Title")
+Imagen en remoto: 4 ![Screenshot](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing?raw=true "Title")
+Imagen en remoto: 5 ![website](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing?raw=true "Title")
+Imagen en remoto: 6 ![website](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing)
+Imagen en remoto: 7 ![alt text](https://drive.google.com/file/d/1YJLIl_o7AFrpXO4_pxn-5c5ftOivGe__/view?usp=sharing)
